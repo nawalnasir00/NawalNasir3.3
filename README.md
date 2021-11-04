@@ -1,4 +1,4 @@
-# JS Event Listeners
+# JS Event Listeners (project in progress INC)
 
 
 *** the code in the files are an idea of how it'll look like, most of the code is not mine! will change it soon! ***** 
